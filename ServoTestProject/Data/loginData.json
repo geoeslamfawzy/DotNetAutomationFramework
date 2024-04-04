@@ -1,0 +1,7 @@
+{
+  "admin_username": "SERVO_AUTOMATION",
+  "admin_password": "123@Sta.com",
+  "operator_username": "EslamOperator",
+  "operator_password":  "Operator@123",
+  "url": "https://neurocpweb.azurewebsites.net/account/sign-in"
+}
